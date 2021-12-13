@@ -1,6 +1,6 @@
 //
 //  GameViewController.h
-//  T9E1_Jasaba
+//  SonicSpaceGame
 //
 
 //  Copyright (c) 2015 Shorlo. All rights reserved.
