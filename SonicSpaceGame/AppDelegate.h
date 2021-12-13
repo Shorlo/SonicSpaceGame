@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  T9E1_Jasaba
+//  SonicSpaceGame
 //
 //  Created by Shorlo on 11/3/15.
 //  Copyright (c) 2015 Shorlo. All rights reserved.
