@@ -1,6 +1,6 @@
 //
 //  GameScenePlay.h
-//  T7E2_Jasaba
+//  SonicSpaceGame
 //
 //  Created by Shorlo on 21/2/15.
 //  Copyright (c) 2015 Shorlo. All rights reserved.
