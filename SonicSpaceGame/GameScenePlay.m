@@ -404,8 +404,7 @@ static const uint32_t asteroideCategory = 0x1 << 3;
 
 -(SKAction *) ringAnimation
 {
-    SKAction *accion = [SKAction repeatActionForever:[SKAction animateWithTextures:_arrayRings
-                                                   timePerFrame:0.2]];
+    SKAction *accion = [SKAction repeatActionForever:[SKAction animateWithTextures:_arrayRings timePerFrame:0.2]];
     return accion;
 }
 
